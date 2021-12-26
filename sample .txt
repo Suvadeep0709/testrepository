@@ -1,0 +1,21 @@
+2. List down Data Types in Java (with wrapper class name, memory size,range)in a tabular format.
+
+   Data Types   Wrapper class   Memory Size                        Range
+   
+   byte         Byte       	1 byte                             -128 to 127
+   short        Short      	2 bytes                            
+   int          Integer    	4 bytes                            
+   long         Long       	8 bytes                            
+                                                                   
+   float        Float      	4 bytes                             
+                                                                    
+                                                                    
+   double       Double     	8 bytes                           
+                                                                   
+   char         Character  	2 bytes                                
+   String       String     	(depends on the size of the String)   
+   bool         Boolean    	1 bit                                  
+
+===========================================================================================================================
+
+3.
